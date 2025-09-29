@@ -522,7 +522,6 @@ footer {
 }
 
 /* MEDIA QUERIES */
-/* Tablet & Medium screens */
 @media screen and (max-width: 768px) {
     .about-container,
     .skills-container,
@@ -700,7 +699,6 @@ footer {
 }
 
 /* ===== Projects ===== */
-/* ===== Global Styles ===== */
  {
   margin: 0;
   padding: 0;
