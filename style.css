@@ -865,3 +865,10 @@ footer {
   }
 }
 
+/* Fix navbar text size on small screens */
+@media (max-width: 600px) {
+  .nav-links li a {
+    font-size: 14px; 
+    padding: 4px 6px; 
+  }
+}
