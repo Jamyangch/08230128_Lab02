@@ -865,10 +865,15 @@ footer {
   }
 }
 
-/* Fix navbar text size on small screens */
+/* Fix navbar text size on very small screens */
 @media (max-width: 600px) {
   .nav-links li a {
-    font-size: 14px; 
-    padding: 4px 6px; 
+    font-size: 12px;   
+    padding: 3px 4px;  
+  }
+
+  .nav-links {
+    gap: 10px;  
   }
 }
+
